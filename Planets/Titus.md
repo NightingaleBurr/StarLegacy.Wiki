@@ -12,22 +12,17 @@
 >
 > Generic Preferable Planet Usage: Mining
 >
-> Resources:
-> - Coal (Lots)
-> - Redstone (Lots)
-> - Emerald (Lots)
-> - Uranium (Lots)
+> Resource Concentration:
+> - Coal (High)
+> - Redstone (High)
+> - Emerald (High)
+> - Uranium (High)
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Low
->
-> Trade Cities: Titost (NPC)
+## Trade Cities
+> - Titost (NPC)
 
 ## Quick Notes
 
-There are many types of mobs here, consisting of zombies, skeletons, creepers, and spiders. In order to live here you **NEED** a space suit or environmental moded helmet; even if inside. When mining, be careful as lava is a thing here and mobs will swarm you in large quantities. As a final note, Titus is half the size of 13 out of 15 planets, being only 2,500 by 2,500 blocks rather than 5,000 by 5,000 blocks, giving it a low gravitational pull. Even though it has a small size, many places make big ships hard to manuver around, so be cautious.
+The radioactive wasteland's only sign of natural life are a few trees and many hostile mobs. Due to it's radioactive nature, a full space suit or a power helment equiped with the environmental module will allow you to surivive both indoors and outdoors; do note that the space suit looses durability over time so do be careful. Massive tunnels stretch beneath the mountainous terrain from past players mining the world for its riches, ores can still be found in the floor, walls, and ceiling of these mining tunnels making mining for ill-prepared players easier. Titus is one of the two smallest worlds, giving it a low gravitational pull allowing a player to jump massive distances.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Titus)
